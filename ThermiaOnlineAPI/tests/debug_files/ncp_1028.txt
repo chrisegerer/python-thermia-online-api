@@ -909,7 +909,7 @@ Group REG_GROUP_HOT_WATER:
         "presentation": "Enumeration",
         "registerId": 36493,
         "registerIndex": 926,
-        "registerName": "REG__HOT_WATER_BOOST",
+        "registerName": "REG_HOT_WATER_BOOST",
         "registerValue": 0.0,
         "step": 1.0,
         "stringRegisterValue": null,

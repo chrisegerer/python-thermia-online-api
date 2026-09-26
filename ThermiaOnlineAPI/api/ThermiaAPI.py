@@ -376,7 +376,7 @@ class ThermiaAPI:
         )
         hot_water_boost_switch_data = (
             self.__get_switch_register_index_and_value_from_group_by_register_name(
-                register_data, REG__HOT_WATER_BOOST
+                register_data, REG_HOT_WATER_BOOST
             )
         )
 
